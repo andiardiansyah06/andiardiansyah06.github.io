@@ -1,0 +1,14 @@
+nav {
+  box-shadow: rgba(0, 0, 0, 0.13) 0px 3px 5px 0px;
+  height: 80px;
+  background-color: #0099ff;
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 6rem;
+}
